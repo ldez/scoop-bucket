@@ -1,0 +1,18 @@
+{
+    "version": "2.4.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/ldez/prm/releases/download/v2.4.0/prm_v2.4.0_windows_386.zip",
+            "bin": "prm.exe",
+            "hash": "1f00a6be8b2396d5e78608f316a83db925cadf340b59036a34bfb18ec4ba145f"
+        },
+        "64bit": {
+            "url": "https://github.com/ldez/prm/releases/download/v2.4.0/prm_v2.4.0_windows_amd64.zip",
+            "bin": "prm.exe",
+            "hash": "6971850eed3ad99ccedd7c9218e9e6bd4aed187d774ff0c3742d279ef3a540b9"
+        }
+    },
+    "homepage": "https://github.com/ldez/prm",
+    "license": "APACHE",
+    "description": "Pull Request Manager for Maintainers"
+}
