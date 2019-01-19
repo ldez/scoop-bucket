@@ -1,0 +1,22 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/ldez/motoko/releases/download/v0.1.0/motoko_v0.1.0_windows_386.zip",
+            "bin": [
+                "motoko.exe"
+            ],
+            "hash": "3acc9d26f1d89524f09a23f3ba7b04cbe7f32975b81d6455a5f6b45c04af9ec5"
+        },
+        "64bit": {
+            "url": "https://github.com/ldez/motoko/releases/download/v0.1.0/motoko_v0.1.0_windows_amd64.zip",
+            "bin": [
+                "motoko.exe"
+            ],
+            "hash": "54022d2e63c5ca78fb056db16070ff9d378b3ba1fc6cec8228c07f53f684b059"
+        }
+    },
+    "homepage": "https://github.com/ldez/motoko",
+    "license": "APACHE",
+    "description": "Based on Go modules, update a dependency to a major version."
+}
