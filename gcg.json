@@ -1,0 +1,22 @@
+{
+    "version": "1.7.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/ldez/gcg/releases/download/v1.7.2/gcg_v1.7.2_windows_386.zip",
+            "bin": [
+                "gcg.exe"
+            ],
+            "hash": "32939464eb65a8914806e6730ab947e5d8eaa2a6e727b93540763e6e0c6431e6"
+        },
+        "64bit": {
+            "url": "https://github.com/ldez/gcg/releases/download/v1.7.2/gcg_v1.7.2_windows_amd64.zip",
+            "bin": [
+                "gcg.exe"
+            ],
+            "hash": "af7cc14482344edc5744d42b35bf09c64321c2028cf72a601342cf001643ff99"
+        }
+    },
+    "homepage": "https://github.com/ldez/gcg",
+    "license": "APACHE",
+    "description": "GitHub Changelog Generator"
+}
