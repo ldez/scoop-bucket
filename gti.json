@@ -1,0 +1,22 @@
+{
+    "version": "1.1.0",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/ldez/gti/releases/download/v1.1.0/gti_v1.1.0_windows_386.zip",
+            "bin": [
+                "gti.exe"
+            ],
+            "hash": "53efd1687d3b2c261ee282f1b3ef525080c30799114dcc4e10066aa1ab6be5f9"
+        },
+        "64bit": {
+            "url": "https://github.com/ldez/gti/releases/download/v1.1.0/gti_v1.1.0_windows_amd64.zip",
+            "bin": [
+                "gti.exe"
+            ],
+            "hash": "8bb8ee97f6dd382a1093a6f9fe3567c0d61948a46e29178b1b4bd313be5821f7"
+        }
+    },
+    "homepage": "https://github.com/ldez/gti",
+    "license": "APACHE",
+    "description": "Just a silly git launcher, basically. Inspired by sl."
+}
