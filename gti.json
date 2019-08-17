@@ -1,19 +1,19 @@
 {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ldez/gti/releases/download/v1.2.0/gti_v1.2.0_windows_386.zip",
+            "url": "https://github.com/ldez/gti/releases/download/v1.3.0/gti_v1.3.0_windows_386.zip",
             "bin": [
                 "gti.exe"
             ],
-            "hash": "f26621d422e0e3a0b2530ef4e339e28f1b324e74a98f26252c9fc09c5c853719"
+            "hash": "36eb03410cd0496bebece4b2eae8feb8953bb361b57b42842e81adb5cabb5802"
         },
         "64bit": {
-            "url": "https://github.com/ldez/gti/releases/download/v1.2.0/gti_v1.2.0_windows_amd64.zip",
+            "url": "https://github.com/ldez/gti/releases/download/v1.3.0/gti_v1.3.0_windows_amd64.zip",
             "bin": [
                 "gti.exe"
             ],
-            "hash": "c3a780bcfb7981c7feb7fc50252f252ea4a9bc822ad786b7b86880cb1aa04605"
+            "hash": "3db7cf8008b69309e506573a1757b4d5da23eaa0108ee2d905b9aa19a3d6724a"
         }
     },
     "homepage": "https://github.com/ldez/gti",
