@@ -1,19 +1,19 @@
 {
-    "version": "3.1.0",
+    "version": "3.3.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ldez/prm/releases/download/v3.1.0/prm_v3.1.0_windows_386.zip",
+            "url": "https://github.com/ldez/prm/releases/download/v3.3.0/prm_v3.3.0_windows_386.zip",
             "bin": [
                 "prm.exe"
             ],
-            "hash": "40094565318504f6c46ad6d7262c69800a4a3456a7514fc6e798b18e2693b15f"
+            "hash": "bc9a1abb53f4b9877d7daf59d0f35c76f258c5a6f7d27e8261c32c877ed84668"
         },
         "64bit": {
-            "url": "https://github.com/ldez/prm/releases/download/v3.1.0/prm_v3.1.0_windows_amd64.zip",
+            "url": "https://github.com/ldez/prm/releases/download/v3.3.0/prm_v3.3.0_windows_amd64.zip",
             "bin": [
                 "prm.exe"
             ],
-            "hash": "b21b96a7c1e41a8c62938723a6686d58d5ebcf52ccb833e4da2dace6ddcf0660"
+            "hash": "8017dcd484d14ddc3d8dff166f2f01efe9b370c90ad4fc0be6dda93952cb8ede"
         }
     },
     "homepage": "https://github.com/ldez/prm",
