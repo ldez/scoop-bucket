@@ -1,19 +1,19 @@
 {
-    "version": "1.7.3",
+    "version": "1.7.4",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ldez/gcg/releases/download/v1.7.3/gcg_v1.7.3_windows_386.zip",
+            "url": "https://github.com/ldez/gcg/releases/download/v1.7.4/gcg_v1.7.4_windows_386.zip",
             "bin": [
                 "gcg.exe"
             ],
-            "hash": "f36cd9ad4364ac132cb9970879da17f71709f35194b68880a93520a598378e72"
+            "hash": "4be06690e971bc7f86eac896f29e096d5b76dac5fbc96bfaf901a34d49eb1896"
         },
         "64bit": {
-            "url": "https://github.com/ldez/gcg/releases/download/v1.7.3/gcg_v1.7.3_windows_amd64.zip",
+            "url": "https://github.com/ldez/gcg/releases/download/v1.7.4/gcg_v1.7.4_windows_amd64.zip",
             "bin": [
                 "gcg.exe"
             ],
-            "hash": "de007e70f5809d517e7cafae75a8fa35a3a8c4571d206ed391c6f04c74be3afa"
+            "hash": "9df64136ce58b18f25dab64f90f9fafe979c4faa9edb7580b582dd9215bc5856"
         }
     },
     "homepage": "https://github.com/ldez/gcg",
