@@ -1,19 +1,19 @@
 {
-    "version": "0.2.4",
+    "version": "0.2.5",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ldez/motoko/releases/download/v0.2.4/motoko_v0.2.4_windows_386.zip",
+            "url": "https://github.com/ldez/motoko/releases/download/v0.2.5/motoko_v0.2.5_windows_386.zip",
             "bin": [
                 "motoko.exe"
             ],
-            "hash": "e2e8a6140b1054eb11f19ad4e97b28152723a4dd2c8c454fa045181028a5c5c9"
+            "hash": "fd1dceb31f0a097e3d553fa63ec527ad519de5d531a1d17372681b04f04eec12"
         },
         "64bit": {
-            "url": "https://github.com/ldez/motoko/releases/download/v0.2.4/motoko_v0.2.4_windows_armv6.zip",
+            "url": "https://github.com/ldez/motoko/releases/download/v0.2.5/motoko_v0.2.5_windows_amd64.zip",
             "bin": [
                 "motoko.exe"
             ],
-            "hash": "1aaf659c8b1e3fc88fba2e8d33e59213314f832c2bf4350b27dcfde44e9bd533"
+            "hash": "4228e0017541f206636568d9aeeb0a58d8541a449bf185ade36fc96f3aa01125"
         }
     },
     "homepage": "https://github.com/ldez/motoko",
