@@ -1,26 +1,26 @@
 {
-    "version": "1.7.10",
+    "version": "1.7.11",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ldez/gcg/releases/download/v1.7.10/gcg_v1.7.10_windows_386.zip",
+            "url": "https://github.com/ldez/gcg/releases/download/v1.7.11/gcg_v1.7.11_windows_386.zip",
             "bin": [
                 "gcg.exe"
             ],
-            "hash": "be7944aa411519792f2c5531c80bfa280ad90f74751c915e0acd0d395435a2e7"
+            "hash": "859f27bc8e252ed52efa88b501a514968050f67157b1504feccba6580e59d4dd"
         },
         "64bit": {
-            "url": "https://github.com/ldez/gcg/releases/download/v1.7.10/gcg_v1.7.10_windows_amd64.zip",
+            "url": "https://github.com/ldez/gcg/releases/download/v1.7.11/gcg_v1.7.11_windows_amd64.zip",
             "bin": [
                 "gcg.exe"
             ],
-            "hash": "aa494bc735498a5433830b0e6f6d069d73a9eacc821c2836460a7b32d6f3d848"
+            "hash": "aa1284ba4226fb3f6bbef9d57a0b1a0dad1c9542b3876afda4c689b8162a54be"
         },
         "arm64": {
-            "url": "https://github.com/ldez/gcg/releases/download/v1.7.10/gcg_v1.7.10_windows_arm64.zip",
+            "url": "https://github.com/ldez/gcg/releases/download/v1.7.11/gcg_v1.7.11_windows_arm64.zip",
             "bin": [
                 "gcg.exe"
             ],
-            "hash": "4042a92651a76e1ddc534617ecd352c0edfefc3cd53fa8350aa0984477c0b462"
+            "hash": "372360030dcc7a5d6f376baf77c35b72ccf337a5b7496f466fe03bd5d491ff79"
         }
     },
     "homepage": "https://github.com/ldez/gcg",
