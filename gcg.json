@@ -6,21 +6,21 @@
             "bin": [
                 "gcg.exe"
             ],
-            "hash": "1206bac63c1b3b2b8f05dae580bd7a4dd32d552b35d2420dcf49d6d04d87e837"
+            "hash": "be7944aa411519792f2c5531c80bfa280ad90f74751c915e0acd0d395435a2e7"
         },
         "64bit": {
             "url": "https://github.com/ldez/gcg/releases/download/v1.7.10/gcg_v1.7.10_windows_amd64.zip",
             "bin": [
                 "gcg.exe"
             ],
-            "hash": "df73b02ec6530cd41a14c0fc8d84c95dd2758e57ecdb7506f6b522756a9f690b"
+            "hash": "aa494bc735498a5433830b0e6f6d069d73a9eacc821c2836460a7b32d6f3d848"
         },
         "arm64": {
             "url": "https://github.com/ldez/gcg/releases/download/v1.7.10/gcg_v1.7.10_windows_arm64.zip",
             "bin": [
                 "gcg.exe"
             ],
-            "hash": "68cb145627606c699ae2505af545099f8dbf30e0d5cf4582882ea263a4ca9a5e"
+            "hash": "4042a92651a76e1ddc534617ecd352c0edfefc3cd53fa8350aa0984477c0b462"
         }
     },
     "homepage": "https://github.com/ldez/gcg",
