@@ -1,26 +1,26 @@
 {
-    "version": "3.6.0",
+    "version": "3.6.2",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/ldez/prm/releases/download/v3.6.0/prm_v3.6.0_windows_386.zip",
+            "url": "https://github.com/ldez/prm/releases/download/v3.6.2/prm_v3.6.2_windows_386.zip",
             "bin": [
                 "prm.exe"
             ],
-            "hash": "cfb793fc1690442c3e4e05721eb527937d9acf6ad0379f1b2c418ef768b32874"
+            "hash": "52dae336611970520ff2161843f41b0abec9f7d310f16d0596b31c0a05a2bbb9"
         },
         "64bit": {
-            "url": "https://github.com/ldez/prm/releases/download/v3.6.0/prm_v3.6.0_windows_amd64.zip",
+            "url": "https://github.com/ldez/prm/releases/download/v3.6.2/prm_v3.6.2_windows_amd64.zip",
             "bin": [
                 "prm.exe"
             ],
-            "hash": "83064d5c110b522348835eb8278e873ef7b39d3e5413f1214b6e78c72e296ea8"
+            "hash": "f0b9435723ace54db0a5727e9e04c80637a079dcb123fad2def127d65f382dfe"
         },
         "arm64": {
-            "url": "https://github.com/ldez/prm/releases/download/v3.6.0/prm_v3.6.0_windows_arm64.zip",
+            "url": "https://github.com/ldez/prm/releases/download/v3.6.2/prm_v3.6.2_windows_arm64.zip",
             "bin": [
                 "prm.exe"
             ],
-            "hash": "d4c8f9effba1186e207f6515294350de2a1e10591c4e5368dbe2b14cf6116d45"
+            "hash": "47ffb607d92f295392b333fe5dd0f0606d104b871dc9ba9ee58aacf65617169f"
         }
     },
     "homepage": "https://github.com/ldez/prm",
